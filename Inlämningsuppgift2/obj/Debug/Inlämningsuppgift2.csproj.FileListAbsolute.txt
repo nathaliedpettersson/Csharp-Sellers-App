@@ -1,0 +1,7 @@
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\Inlämningsuppgift2.exe.config
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\Inlämningsuppgift2.exe
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\Inlämningsuppgift2.pdb
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\Inlämningsuppgift2.csproj.AssemblyReference.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\Inlämningsuppgift2.csproj.CoreCompileInputs.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\Inlämningsuppgift2.exe
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\natpeg-3\Documents\My projects\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\Inlämningsuppgift2.pdb
